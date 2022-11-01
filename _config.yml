@@ -1,6 +1,5 @@
 title: 양청현
-logo: "/images/picture.png?raw=true" # your photo (or logo) here
+logo: "/images/picture.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   백엔드 개발자
   
-theme: jekyll-theme-minimal
